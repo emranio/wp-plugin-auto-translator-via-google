@@ -1,0 +1,1 @@
+# wp-plugin-auto-translator-via-google
